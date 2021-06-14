@@ -13,7 +13,7 @@ Nichts
 
 # Beschreibung
 
-Das Script entfernt die "Armor" nachdem man angeschossen oder geschlagen wurde!
+Das Script entfernt die Armor (Schutzweste als Kleidung) nachdem man angeschossen oder geschlagen wurde!
 
 # Fertigstellung
 
