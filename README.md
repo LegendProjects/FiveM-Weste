@@ -4,9 +4,9 @@ Von d0p3t & vilib
 
 # Preview
 
-NONE
+Nichts
 
-#Release
+# Release
 
 - status code [e02]
 - status code [e03]
